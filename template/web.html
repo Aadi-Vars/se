@@ -1,0 +1,58 @@
+<html>
+<head>
+
+<title> Home</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width = device-width,initial-scale=1.0">
+<meta name="keywords" content="Jee,Exam,IIT,Jee Advance,Advance,Jee main,Special Exam,Jee IIT,NIT Extrance">
+<style>
+@media (max-width:500px){h1{font-size:20px;}
+</style>
+</head>
+<body>
+
+<div class="main_div">
+	<header>
+	 <h1 align ="center" style="color:purple;font-weight:700;">SE<br>Special Exam<h1>
+	 <h3 align ="center" style="color:purple;font-weight:600;">The Exams that have a special meaning to student's life</h3>
+	</header>
+	 <hr>
+
+	 <section id="section" align="center" style="margin-top:40vh">
+
+	 <form id="exam_form" align="center" action="home" method="POST">
+	 {% csrf_token %}
+
+	 <select style="width:50vw;margin:5px;" name="exam" onchange="this.form.submit()">
+	 	{% for i in object %}
+
+	 	{% if i == exam %}
+	 	<option selected>{{i}}</option>
+	 	{% else %}
+	 	<option>{{i}}</option>
+	 	{% endif %}
+
+		{% endfor %}
+	 </select>
+
+	 </form>
+
+	  <form id="paper_form" align="center" action="instr.html" method="POST">
+	  {% csrf_token %}
+	 <select style="width:50vw;margin:5px;" name="paper">
+		{% for i in object2 %}
+		<option>{{i}}</option>
+		{% endfor %}
+	</select>
+
+
+	 <br>
+	 <input style="margin:5px;" type="submit">
+
+	 </form>
+
+
+	 </section>
+<div>
+</body>
+</html>

@@ -1,0 +1,89 @@
+{% load static %}
+<html>
+<head>
+<title> Instruction</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width = device-width,initial-scale=1.0">
+
+<style>
+@media (max-width:500px){h1{font-size:20px;}}
+@media (max-width:500px){h2{font-size:18px;}}
+@media (max-width:500px){body{margin-left:10px}}
+@media (max-width:500px){#main_list{padding-left:20px;padding-right:0px;}}
+
+@media (max-width:500px){#sub_list{padding-left:20px;padding-right:0px;}}
+@media (max-width:500px){#sub_list2{padding-left:20px;padding-right:0px;}}
+@media (max-width:500px){#sub_list3{padding-left:20px;padding-right:0px;}}
+@media (orientation:landscape) and (max-height:500px){img{width:10vh;height:5vw;}}
+</style>
+</head>
+<body leftmargin=40px padding=0px spacing:4vh>
+<div id="main_div">
+	<header>
+	<h1 align="center">Instructions</h1>
+	</header>
+	
+	<section>
+	<h2 align="justify">Please read the instruction carefully</h2>
+	
+	<ol id="main_list">
+	<li> <p> Total duration of examinatiom is enough to complete the paper</p></li> 
+	<li><p>The clock will be set at server. The time consumed will be displayed after the submission of paper</p></li>
+	
+	<p>The Marked for review status for a question simply indicate that you would like to look that question again</p>
+	</p></li>
+	
+	<li><p>You can click on to <img style="width:10vw;height:5vh;" src="{% static 'img/down_arrow.jpg' %}"> nagivate to the bottom and<img style="width:10vw;height:5vh;" src="{% static 'img/up_arrow.jpg' %}">  to nagivate to the top of question area,without scrolling</p></li>
+	
+	<br>
+	<h3><u>Navigating to the question</u></h3>
+	<li><p>To answer the question do the following:</p>
+		<ol id="sub_list2">
+		<li><p>Click on the question number in the question palette at the top of your screen to go to that numbered question directly.Note that using this option you does not save your answer to current question</p></li>
+		
+		<li><p>Click on <b>Save & Next</b> to save your answer for the currrent question and go to the next question</p></li>
+		
+		<li><p>Click on <b>Mark for review & next</b> to save your answer for the current question,mark for it for review and go to the next question</p></li>
+	
+		</ol>
+	</li>
+	
+	<br>
+	<h3><u>Answering a Question</u></h3>
+	<li><p>Procedure for answering a multiple choice type question:</p></li>
+	
+		<ol id="sub_list3">
+		<li><p>To select answer click on the button of one of the option</p></li>
+		
+		<li><p>To deselect your chosen answer click on the <b>Clear Response</b> button</p></li>
+		
+		<li><p>To change your option click on the button of another option</p></li>
+		
+		<li><p>To save you answer you MUST click on<b>Save & Next</b>button</p></li>
+		
+		<li><p>To mark the question for review click on<b> Mark For Review & Next</b>button</p></li>
+		
+		<li><p>To change your answer of a question that have already being answered,first navigate to that question for answering,then follow the procedure to answer that type of question</p></li>
+		</ol>
+	
+	<br>
+	<h3><u>Navigating through Sections:</u></h3>
+
+	<li><p>After clicking on the Save & Next button on the last question of a section,you will be automatically bring to the first question of next section</p></li>
+	
+	<li><p>You can shuffle between the question and the section anytime during the examination according to your convenience</p></li>
+	</ol>
+	
+	<br>
+	<hr>
+	<br>
+	
+	<div style="background-color:black;border:1px solid black;float:right;padding-left:2vw;padding-right:2vw;padding-top:1.5vh;padding-bottom:1.5vh;margin-bottom:3vh;">
+	<a style="color:white;font-size:13" href="other_imp_instr.html"><b>Next></b> </a>
+	<div style="clear:both"></div>
+	</div>
+	
+	</section>
+</div>
+</body>
+</html>

@@ -1,0 +1,399 @@
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec1_ques1.png
+<label>3.07 cm</label>
+<label>3.11cm</label>
+<label>3.15cm</label>
+<label>3.17cm</label>
+c
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec1_ques2.jpg
+<label>step 1 and 2</label>
+<label>step 3 and 4</label>
+<label>step 1 and 4</label>
+<label>step 2 and 4</label>
+c
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec1_ques3.jpg
+<label>0.4</label>
+<label>0.8</label>
+<label>1.8</label>
+<label>1.6</label>
+b
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec1_ques4.jpg
+<label>50</label>
+<label>75</label>
+<label>350</label>
+<label>525</label>
+d
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec2_ques5.jpg
+integer
+integer
+interger
+integer
+0.50
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec2_ques6.jpg
+integer
+integer
+interger
+integer
+7.50
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec2_ques7.jpg
+integer
+integer
+interger
+integer
+1.33
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec2_ques8.jpg
+integer
+integer
+interger
+integer
+0.67
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec2_ques9.jpg
+integer
+integer
+interger
+integer
+1.73
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec2_ques10.jpg
+integer
+integer
+interger
+integer
+3.00
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec3_ques11.jpg
+<label>For the same F, the value of a does not depend on when the cylinder is solid or hollow</label>
+<label>For the solid cylinder,the maximum possibe value of a is 2µg</label>
+<label>The magnitude of the frictional force on the object due to the ground is always µmg</label>
+<label>For a thin-walled hollow cylinder,a=F/2m</label>
+[b,d]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec3_ques12.jpg
+<label>The light ray enters air if n2=n1</label>
+<label>The light ray is finally reflected back into the medium of refractive index n1 if n2<n1</label>
+<label>The light ray is finally reflected back into the medium of refractive index n1 if n2>n1</label>
+<label>The light ray is reflected back into the medium of refractive index n1 if n2=1</label>
+[b,c,d]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec3_ques13.jpg
+<label>The particle arrives at the point (x=l,y=-h) at time t=2s</label>
+<img class="opt" src="static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec3_ques13_opt2.jpg"><label> when the particle passes through the point (x=l,y=-h)</label>
+<img class="opt" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec3_ques13_opt3.jpg"><label> when the particle passes through the point (x=l,y=-h)</label>
+<img class="opt" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec3_ques13_opt4.jpg"><label> when the particle passes through the point (x=0,y=-h)</label>
+[a,b,c]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec3_ques14.jpg
+<label>The ratio of the longest wavelength to the shortest wavelength in Balmer series is 9/5 </label>
+<label>There is an overlap between the wavelength ranges of Balmer and Paschen series </label>
+<label>The wavelengths of Lyman series are given by (1+1/m^2 )λ• where λ• is the shortest wavelength of Lyman series and m is an integer</label>
+<label>The wavelength ranges of Lyman and Balmer series do not overlap</label>
+[a,d]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec3_ques15.jpg
+<label>Maximum current through R is 1.2 ×10^-6 ampere  </label>
+<label>Maximum current through R is 3.8 ×10^−6 ampere </label>
+<label>Maximum charge on capacitor C• is 8.4 ×10^−12 coulomb </label>
+<label>Maximum charge on capacitor C• is 2.4 ×10^−12 coulomb </label>
+[a,c]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec3_ques16.jpg
+<img class="opt" style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec3_ques16_opt1.jpg">
+<img class="opt" style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec3_ques16_opt2.jpg">
+<img class="opt" style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec3_ques16_opt3.jpg">
+<img class="opt" style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec3_ques16_opt4.jpg">
+[a,c]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec4_ques17.jpg
+integer
+integer
+interger
+integer
+4
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec4_ques18.jpg
+integer
+integer
+interger
+integer
+49
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_phy_sec4_ques19.jpg
+integer
+integer
+interger
+integer
+9
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec1_ques1.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec1_ques1_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec1_ques1_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec1_ques1_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec1_ques1_opt4.jpg">
+b
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec1_ques2.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec1_ques2_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec1_ques2_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec1_ques2_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec1_ques2_opt4.jpg">
+b
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec1_ques3.jpg
+<label>0.74</label>
+<label>0.63</label>
+<label>0.52</label>
+<label>0.48</label>
+b
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec1_ques4.jpg
+<label>3.87 and 2.84 </label>
+<label>4.90 and 1.73 </label>
+<label>3.87 and 1.73 </label>
+<label>4.90 and 2.84 </label>
+a
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec2_ques5.jpg
+integer
+integer
+interger
+integer
+1.62
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec2_ques6.jpg
+integer
+integer
+interger
+integer
+3.2
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec2_ques7.jpg
+integer
+integer
+interger
+integer
+166.28
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec2_ques8.jpg
+integer
+integer
+interger
+integer
+141.33
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec2_ques9.jpg
+integer
+integer
+interger
+integer
+100.10
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec2_ques10.jpg
+integer
+integer
+interger
+integer
+2.50
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques11.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques11_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques11_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques11_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques11_opt4.jpg">
+[c,d]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques12.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques12_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques12_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques12_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques12_opt4.jpg">
+[a,d]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques13.jpg
+<label>The process of precipitating colloidal sol by an electrolyte is called peptization</label>
+<label>Colloidal solution freezes at higher temperature than the true solution at the same concentration.</label>
+<label>Surfactants form micelle above critical micelle concentration (CMC). CMC depends on temperature. </label>
+<label>Micelles are macromolecular colloids</label>
+[b,c]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques14.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques14_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques14_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques14_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques14_opt4.jpg">
+[a,b,d]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques15.jpg
+<label> A mixture of PbS and PbO undergoes self-reduction to produce Pb and SO2.</label>
+<label>In the extraction process of copper from copper pyrites, silica is added to produce copper silicate.</label>
+<label>Partial oxidation of sulphide ore of copper by roasting, followed by self-reduction produces blister copper.</label>
+<label>In cyanide process, zinc powder is utilized to precipitate gold from Na[Au(CN)<sub>2</sub>].</label>
+[a,c,d]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec3_ques16.jpg
+<label> Pb(NO<sub>3</sub>)<sub>2</sub> and Zn(NO<sub>3</sub>)<sub>2</sub></label>
+<label> Pb(NO<sub>3</sub>)<sub>2</sub>and Bi(NO<sub>3</sub>)<sub>3</sub></label>
+<label>AgNO<sub>3</sub> and Bi(NO<sub>3</sub>)<sub>3</sub> </label>
+<label>Pb(NO<sub>3</sub>)<sub>2</sub> and Hg(NO<sub>3</sub>)<sub>2</sub></label>
+[a,b]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec4_ques17.jpg
+integer
+integer
+interger
+integer
+13
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec4_ques18.jpg
+integer
+integer
+interger
+integer
+12
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_chem_sec4_ques19.jpg
+integer
+integer
+interger
+integer
+6
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec1_ques1.jpg
+<label>x<sup>2</sup>+y<sup>2</sup>-3x+y=0</label>
+<label>x<sup>2</sup>+y<sup>2</sup>+x+3y=0</label>
+<label>x<sup>2</sup>+y<sup>2</sup>+2y-1=0</label>
+<label>x<sup>2</sup>+y<sup>2</sup>+x+y=0</label>
+b
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec1_ques2.jpg
+<label>11/32</label>
+<label>35/96</label>
+<label>37/96</label>
+<label>13/32</label>
+a
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec1_ques3.jpg
+<label>1/5</label>
+<label>3/5</label>
+<label>1/2</label>
+<label>2/5</label>
+a
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec1_ques4.jpg
+<label>P is TRUE and Q is FALSE   </label>
+<label>Q is TRUE and P is FALSE </label>
+<label> both P and Q are TRUE </label>
+<label>both P and Q are FALSE</label>
+c
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec2_ques5.jpg
+integer
+integer
+interger
+integer
+76.25
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec2_ques6.jpg
+integer
+integer
+interger
+integer
+24.50
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec2_ques7.jpg
+integer
+integer
+interger
+integer
+1.00
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec2_ques8.jpg
+integer
+integer
+interger
+integer
+1.50
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec2_ques9.jpg
+integer
+integer
+interger
+integer
+9.00
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec2_ques10.jpg
+integer
+integer
+interger
+integer
+77.14
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques11.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques11_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques11_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques11_opt3.jpg">
+<img style="width:80vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques11_opt4.jpg">
+[a,b,d]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques12.jpg
+<label>f is decreasing in the interval (−2,−1)</label>
+<label>f is increasing in the interval (1,2) </label>
+<label>f is onto </label>
+<label>Range of f is [−3/2 ,2]</label>
+[a,b]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques13.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques13_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques13_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques13_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques13_opt4.jpg">
+[a,b,c]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques14.jpg
+<label> |FE|= | I-FE||FGE|</label>
+<label>(I-FE)(I+FEG)=I</label>
+<label>EFG=GEF</label>
+<label>(I-FE)(I-FGE)=I</label>
+[a,b,c]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques15.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques15_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques15_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques15_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques15_opt4.jpg">
+[a,b]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec3_ques16.jpg
+<label> α=-1</label>
+<label>αβ=4</label>
+<label>αβ=-4</label>
+<label>β=4</label>
+[b,d]
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec4_ques17.jpg
+integer
+integer
+interger
+integer
+4
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec4_ques18.jpg
+integer
+integer
+interger
+integer
+2
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/English/img/pap_2021_1_math_sec4_ques19.jpg
+integer
+integer
+interger
+integer
+7

@@ -1,0 +1,378 @@
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec1_ques1.jpg
+integer
+integer
+integer
+integer
+1
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec1_ques2.jpg
+integer
+integer
+integer
+integer
+8
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec1_ques3.jpg
+integer
+integer
+integer
+integer
+5
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec1_ques4.jpg
+integer
+integer
+integer
+integer
+1
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec1_ques5.jpg
+integer
+integer
+integer
+integer
+5
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec1_ques6.jpg
+integer
+integer
+integer
+integer
+3
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec1_ques7.jpg
+integer
+integer
+integer
+integer
+7
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec1_ques8.jpg
+integer
+integer
+integer
+integer
+6
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques9.jpg
+<label>(0,√2)</label>
+<label> (1,2)</label>
+<label>(√2,3) </label>
+<label>(2√2,3√2)</label>
+[a,b]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques10.jpg
+<label>The minimum value of g(x) is 2<sup>7/6</sup></label>
+<label>The  maximum value of g(x) is 1+2<sup>1/3</sup></label>
+<label>The  function g(x) attains its maximum  at more than one point </label>
+<label> The function g(x) attains its minimum  at  more than one point</label>
+[a,b,c]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques11.jpg
+<img style="width:20vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques11_opt1.jpg">
+<img style="width:20vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques11_opt2.jpg">
+<img style="width:20vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques11_opt3.jpg">
+<img style="width:20vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques11_opt4.jpg">
+[a]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques12.jpg
+<label>If n=4 then (√2-1)r < R</label>
+<label>If n=5 then r < R</label>
+<label>If n=8 then (√2-1)r < R</label>
+<label>If n=12 then √2(√3+1)r > R</label>
+[c,d]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques13.jpg
+<img style="width:20vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques13_opt1.jpg">
+<img style="width:20vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques13_opt2.jpg">
+<img style="width:20vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques13_opt3.jpg">
+<img style="width:20vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques13_opt4.jpg">
+[b,c,d]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec2_ques14.jpg
+<label>y(x) is an increasing  function </label>
+<label>y(x) is a decreasing  function </label>
+<label>There exists a real number β such that the line γ=β intersects the curve y=y(x) at infinitely  many  points </label>
+<label>y(x) is a periodic function </label>
+[c]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec3_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec3_ques15.jpg
+<label>21816</label>
+<label>85536</label>
+<label>12096</label>
+<label>156816</label>
+a
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec3_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec3_ques16.jpg
+<img style="width:50vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec3_ques16_opt1.jpg">
+<img style="width:50vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec3_ques16_opt2.jpg">
+<img style="width:50vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec3_ques16_opt3.jpg">
+<img style="width:50vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec3_ques16_opt4.jpg">
+a
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec3_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec3_ques17.jpg
+<label>15/256</label>
+<label>3/16</label>
+<label>5/52</label>
+<label>1/8</label>
+c
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec3_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_math_sec3_ques18.jpg
+<label>3+(4/3)log<sub>e</sub>7</label>
+<label>4-(3/4)log<sub>e</sub>(7/3)</label>
+<label>4-(4/3)log<sub>e</sub>(7/3)</label>
+<label>3+(3/4)log<sub>e</sub>7</label>
+b
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec1_ques1.jpg
+integer
+integer
+interger
+integer
+3
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec1_ques2.jpg
+integer
+integer
+interger
+integer
+2
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec1_ques3.jpg
+integer
+integer
+interger
+integer
+5
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec1_ques4.jpg
+integer
+integer
+interger
+integer
+4
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec1_ques5.jpg
+integer
+integer
+interger
+integer
+4
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec1_ques6.jpg
+integer
+integer
+interger
+integer
+3
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec1_ques7.jpg
+integer
+integer
+interger
+integer
+6
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec1_ques8.jpg
+integer
+integer
+interger
+integer
+3
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec2_ques9.jpg
+<label>If r<sub>B</sub>=√(3/2) then the electric field is zero everywhere outside B.</label>
+<label>If r<sub>B</sub>=3/2, then the electric potential just outside B is k/€<sub>•</sub></label>
+<label>If r<sub>B</sub> = 2, then the total charge of the configuration is 15πk.</label>
+<label>If r<sub>B</sub> =5/2 then the magnitude of the electric field just outside B is 13πk/€<sub>•</sub></label>
+b
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec2_ques10.jpg
+<label>When a voltage source of 6V is connected across A and B in both circuits, P<sub>1</sub> < P<sub>2</sub></label>
+<label>When a constant current source of 2Amp is connected across A and B in both circuits, P<sub>1</sub> > P<sub>2</sub></label>
+<label>When a voltage source of 6V is connected across A and B in circuits 1, Q<sub>1</sub> < P<sub>1</sub></label>
+<label>When a constant current source of 2Amp is connected across A and B in both circuits, Q<sub>2</sub> < Q<sub>1</sub></label>
+[a,b,c,d]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec2_ques11.jpg
+<label>If the surface of the bubble is a perfect heat insulator, then</label> <img style="width:20vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec2_ques11_opt1.jpg">
+<label>If the surface of the bubble is a perfect heat insulator, then the total internal energy of the bubble including its surface energy does not change with the external atmospheric pressure. </label>
+<label>If the surface of the bubble is a perfectheat conductor and the change in atmospheric temperature is negligible, then </label><img style="width:20vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec2_ques11_opt3.jpg">
+<label>If the surface of the bubble is a perfect heat insulator, then </label><img style="width:20vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec2_ques11_opt4.jpg">
+[c,d]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec2_ques12.jpg
+<label>For β=1/4and z<sub>0</sub>=(25/7)R ,the particle reaches the origin</label>
+<label>For β=1/4and z<sub>0</sub>=(3/7)R ,the particle reaches the origin</label>
+<label> For β=1/4and z<sub>0</sub> >0 ,the particle returns back to z=z<sub>p</sub></label>
+<label>For β>1 and z<sub>0</sub>=(3/7)R ,the particle reaches the origin</label>
+[a,c,d]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec2_ques13.jpg
+<label>The phase difference between the two rays is independent of d.</label>
+<label>The two rays interfere constructively at the detector</label>
+<label>The phase difference between the two rays depends on n<sub>1</sub> but is independent of n<sub>2</sub></label>
+<label>The phase difference between the two rays vanishes only for certain values of d and the angle of incidence of the beam, with θ being  the corresponding angle of refraction</label>
+[a,b]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec2_ques14.jpg
+<label>The magnitude of the total work done in the process A-->B-->C is 144 kJ.</label>
+<label>The magnitude of the work done in the process B-->C is84 kJ</label>
+<label>The magnitude of the work done in the process A-->B is60 kJ</label>
+<label>The magnitude of the work done in the process C-->A is zero</label>
+[dropped]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec3_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec3_ques15.jpg
+<label>2</label>
+<label>5</label>
+<label>7/2</label>
+<label>9/2</label>
+b
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec3_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec3_ques16.jpg
+<label>1.72 x 10<sup>-7</sup> m, 1.20 eV</label>
+<label>1.72 x 10<sup>-7</sup>m, 5.60 eV </label>
+<label>3.78 x 10<sup>-7</sup>m, 5.60 eV </label>
+<label>3.78 x 10<sup>-7</sup>m, 1.20 eV </label>
+a
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec3_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec3_ques17.jpg
+<label>2.22±0.02mm ,π(1.23±0.02)mm<sup>2</sup> </label>
+<label>2.22±0.01mm ,π(1.23±0.01)mm<sup>2</sup> </label>
+<label>2.14±0.02mm ,π(1.14±0.02)mm<sup>2</sup> </label>
+<label>2.14±0.01mm ,π(1.14±0.01)mm<sup>2</sup> </label>
+dropped
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec3_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec3_ques18.jpg
+<img style="width:80vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec3_ques18_opt1.jpg">
+<img style="width:80vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec3_ques18_opt2.jpg">
+<img style="width:80vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec3_ques18_opt3.jpg">
+<img style="width:80vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_phy_sec3_ques18_opt4.jpg">
+a
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec1_ques1.jpg
+integer
+integer
+integer
+integer
+6
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec1_ques2.jpg
+integer
+integer
+integer
+integer
+5
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec1_ques3.jpg
+integer
+integer
+integer
+integer
+7
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec1_ques4.jpg
+integer
+integer
+integer
+integer
+2 or 4 or 6
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec1_ques5.jpg
+integer
+integer
+integer
+integer
+6
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec1_ques6.jpg
+integer
+integer
+integer
+integer
+2
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec1_ques7.jpg
+integer
+integer
+integer
+integer
+0
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec1_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec1_ques8.jpg
+integer
+integer
+integer
+integer
+2
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec2_ques9.jpg
+<label>If empirical formula of compound 3 is P<sub>3</sub>Q<sub>4</sub> ,then the empirical formula of compound 2 is P<sub>3</sub>Q<sub>5</sub></label>
+<label>If empirical formula of compound 3 is P<sub>3</sub>Q<sub>2</sub> and tge atomic weight of P is 20 then the atomic weight of Q is 45</label>
+<label>If empirical formula of compound 2 is PQ,then the empirical formula of compound 1 is P<sub>5</sub>Q<sub>4</sub></label>
+<label>If the atomic weight of P and Q are 70 and 35 respectively then the empirical formula of compound 1 isP<sub>2</sub>Q</label>
+[b,c]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec2_ques10.jpg
+<label>For the reaction, M(s) + 2H (aq) → H<sub>2</sub> (g) + M<sup>2</sup>(aq), if dE<sub>cell</sub>/dT then the entropy change of the reaction is R (assume that entropy and internal energy changes are temperature independent)</label>
+<label>The cell reaction, Pt(s) | H(g, Ibar) | H(aq, 0.01M) || H(aq, 0.1M) | Hg, Ibar) | Pt(s), is an entropy driven process.</label>
+<label>For racemization of an optically active compound, ΔS > 0.</label>
+<label>ΔS > 0, for [Ni(H<sub>2</sub>O)<sub>6</sub>><sup>+2</sup> +3 en → [Ni(en)<sub>3</sub>]<sup>+2</sup>+6H<sub>2</sub>O (where en ethylenediamine).</label>
+[b,c,d]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec2_ques11.jpg
+<label>B</label>
+<label>B<sub>2</sub>H<sub>6</sub></label>
+<label>B<sub>2</sub>O<sub>3</sub></label>
+<label>HBF<sub>4</sub></label>
+[[b,c]or [a,b,c]]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec2_ques12.jpg
+<label>Limestone is used to remove silicate impurity</label>
+<label>Pig  iron obtained from blast  furnace contains about  4% carbon</label>
+<label>Coke (C) converts CO2  to CO</label>
+<label>Exhaust  gases  consist  of  NO<sub>2</sub> and CO</label>
+[a,b,c]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec2_ques13.jpg
+<label>Compounds P and Q are carboxylic acids</label>
+<label>Compound S decolorizes  bromine water</label>
+<label>Compounds P and S react  with hydroxylamine to give the corresponding  oximes</label>
+<label>Compound R reacts with dialkylcadmium  to give the corresponding  tertiary  alcohol</label>
+[a,b,c]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec2_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec2_ques14.jpg
+<label>The polymerization of chloroprene  gives  natural rubber</label>
+<label>Teflon is prepared from tetrafluoroethene by heating it with persulphate catalyst at high pressures</label>
+<label>PVC  are thermoplastic polymers</label>
+<label>Ethene at 350-570 K temperature and 1000-2000 atm pressure in the presence of a peroxide initiator yields high density  polythene</label>
+[b,c]
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec3_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec3_ques15.jpg
+<label>25</label>
+<label>35</label>
+<label>55</label>
+<label>75</label>
+b
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec3_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec3_ques16.jpg
+<label>Cl<sub>2</sub>O</label>
+<label>ClO<sub>2</sub></label>
+<label>Cl<sub>2</sub>O<sub>6</sub></label>
+<label>Cl<sub>2</sub>O<sub>7</sub></label>
+c
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec3_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec3_ques17.jpg
+<label>PbCl<sub>2</sub></label>
+<label>PbCl<sub>4</sub></label>
+<label>[PbCl<sub>4</sub>]<sup>2-</sup></label>
+<label>[PbCl<sub>6</sub>]<sup>2-</sup></label>
+c
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_sec3_instr.jpg
+Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec3_ques18.jpg
+<img style="width:80vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec3_ques18_opt1.jpg">
+<img style="width:80vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec3_ques18_opt2.jpg">
+<img style="width:80vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec3_ques18_opt3.jpg">
+<img style="width:80vw" src="/static/Jee Advance/Paper 2022-2/English/img/pap_2022_2_chem_sec3_ques18_opt4.jpg">
+c

@@ -1,0 +1,140 @@
+{% load static %}
+<html>
+<head>
+
+<title>Submit</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width = device-width,initial-scale=1.0">
+
+<style>
+body{margin-left:0.5vw;margin-right:0.5vw;}
+label{font-size:20px;}
+img{margin-top:1vh;}
+#ques{margin-top:2vh;border-bottom:1px solid black;}
+#image{overflow:hidden;overflow-x:scroll;}
+.opt{width:10vw;}
+@media (max-width:500px){h3{font-size:14px;}}
+@media (max-width:500px){label{font-size:12px;}} 
+
+</style>
+</head>
+<body>
+
+<h3> Time Spend: {{time}} minutes</h3>
+
+{% for i in object %}
+
+<div id="ques">
+	<img style="width:100vw" src="/static/{{i.instr}}">
+	<img style="width:100vw" src="/static/{{i.ques}}">
+	
+	{% if i.type == "integer" %}
+		
+		<!-- Showing select value-->
+		<div style="float:left;width:50%;">
+		<label>Your Answer:</label>
+	
+		{% if i.select_val == "None" %}
+			<input type="text" disabled>
+		{% else %}
+			<input type="text" value={{i.select_val}} disabled>
+			
+		{% endif %}
+		</div>
+		
+		<!--Showing correct value-->
+		<div style="float:right;width:50%">
+		<label>Correct Answer:</label>
+		<input type="text" value={{i.corr_opt}} disabled>
+		</div>
+		
+		<div style="clear:both;" id="back_to_parent"></div>
+	
+	
+	{% elif i.type == "only_one" %}
+	
+		{% if i.select_val == "a" %}
+		<input type="radio" value="ans" checked>
+		{% else %}
+		<input type="radio" value="ans" disabled>
+		{% endif %}
+		<label style="display:inline;">a• </h4> 
+		{{i.a | safe}}<br>
+		
+		{% if i.select_val == "b" %}
+		<input type="radio" value="ans" checked>
+		{% else %}
+		<input type="radio" value="ans" disabled>
+		{% endif %}
+	
+		<label style="display:inline;">b• </h4> 
+		{{i.b | safe}}<br>
+		
+		{% if i.select_val == "c" %}
+		<input type="radio" value="ans" checked>
+		{% else %}
+		<input type="radio" value="ans" disabled>
+		{% endif %}
+	
+		<label style="display:inline;">c• </h4> 
+		{{i.c | safe}}<br>
+		
+		{% if i.select_val == "d" %}
+		<input type="radio" value="ans" checked>
+		{% else %}
+		<input type="radio" value="ans" disabled>
+		{% endif %}
+		
+		<label style="display:inline;">d• </h4> 
+		{{i.d | safe}}<br>
+		
+		<div align="right"> 
+		<label> Correct Answer: {{i.corr_opt}}</label>
+	
+		</div>
+		
+	{% else %}
+		{% if "a" in i.select_val %}
+		<input type="radio" value="ans" checked>
+		{% else %}
+		<input type="radio" value="ans" disabled>
+		{% endif %}
+		<label style="display:inline;">a• </h4> 
+		{{i.a | safe}}<br>
+		
+		{% if "b" in i.select_val %}
+		<input type="radio" value="ans" checked>
+		{% else %}
+		<input type="radio" value="ans" disabled>
+		{% endif %}
+		<label style="display:inline;">b• </label>
+		{{i.b | safe}}<br>
+		
+		{% if "c" in i.select_val %}
+		<input type="radio" value="ans" checked>
+		{% else %}
+		<input type="radio" value="ans" disabled>
+		{% endif %}
+		<label style="display:inline;">c• </label>
+		{{i.c | safe}}<br>
+		
+		
+		{% if "d" in i.select_val %}
+		<input type="radio" value="ans" checked>
+		{% else %}
+		<input type="radio" value="ans" disabled>
+		{% endif %}
+		<label style="display:inline;">d• </label>
+		{{i.d | safe}}<br>
+	
+		
+		<div align="right"> 
+		<label> Correct Answer: {{i.corr_opt}}</label>
+	
+		</div>
+	{% endif %}
+		
+</div>
+{% endfor %}
+</body>
+</html>

@@ -1,0 +1,378 @@
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec1_ques1.jpg
+integer
+integer
+integer
+integer
+2.36
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec1_ques2.jpg
+integer
+integer
+integer
+integer
+0.50
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec1_ques3.jpg
+integer
+integer
+integer
+integer
+0.80
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec1_ques4.jpg
+integer
+integer
+integer
+integer
+0.50
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec1_ques5.jpg
+integer
+integer
+integer
+integer
+4.00
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec1_ques6.jpg
+integer
+integer
+integer
+integer
+18900
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec1_ques7.jpg
+integer
+integer
+integer
+integer
+569
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec1_ques8.jpg
+integer
+integer
+integer
+integer
+0.84
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec2_ques9.jpg
+<label> No α satisfies the above equation</label>
+<label> An integer α satisfies the above equation </label>
+<label>An irrational number α satisfies the above equation </label>
+<label>More than one α satisfies the above equation </label>
+[c,d]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec2_ques10.jpg
+<label>T<sub>20</sub>=1604</label>
+<img class ="opt" src="/static/Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec1_ques10_opt2.jpg">
+<label>T<sub>30</sub>=3454</label>
+<img class ="opt" src="/static/Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec1_ques10_opt4.jpg">
+[b,c]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec2_ques11.jpg
+<img style="width:50vw" src="/static/Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec2_ques11_opt1.jpg">
+<img style="width:50vw" src="/static/Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec2_ques11_opt2.jpg">
+<img style="width:50vw" src="/static/Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec2_ques11_opt3.jpg">
+<img style="width:50vw" src="/static/Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec2_ques11_opt4.jpg">
+[a,b,d]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec2_ques12.jpg
+<label>3(α+β)= -101</label>
+<label>3(β+γ)= -71</label>
+<label>3(γ+α)= -86</label>
+<label>3(α+β+γ)= -121</label>
+[a,b,c]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec2_ques13.jpg
+<label>SQ<sub>1</sub> = 2</label>
+<label>Q<sub>1</sub>Q<sub>2</sub> = (3√10)/5</label>
+<label>PQ<sub>1</sub> = 3</label>
+<label>SQ<sub>2</sub> = 1</label>
+[b,c,d]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec2_ques14.jpg
+<label>p((3+√2)/4) < 0</label>
+<label>p((1+3√2)/4) > 0</label>
+<label>p((5√2-1)/4) > 0</label>
+<label>p((5-√2)/4) < 0</label>
+[a,c]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec3_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec3_ques15.jpg
+<label>(I) -> P (II) ->S (III) ->P (IV) ->S</label>
+<label>(I) -> P (II) ->P (III) ->T (IV) ->R</label>
+<label>(I) -> Q (II) ->P (III) ->T (IV) ->S</label>
+<label>(I) -> Q (II) ->S (III) ->P (IV) ->R</label>
+b
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec3_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec3_ques16.jpg
+<label>(I) -> Q (II) ->R (III) ->T (IV) ->S</label>
+<label>(I) -> Q (II) ->R (III) ->T (IV) ->T</label>
+<label>(I) -> P (II) ->R (III) ->Q (IV) ->S</label>
+<label>(I) -> P (II) ->R (III) ->Q (IV) ->T</label>
+a
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec3_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec3_ques17.jpg
+<label>(I) ->T (II) ->R (III) ->S (IV) ->T</label>
+<label>(I) ->Q (II) ->S (III) ->S (IV) ->R</label>
+<label>(I) ->Q (II) ->R (III) ->P (IV) ->R</label>
+<label>(I) ->T (II) ->S (III) ->P (IV) ->T</label>
+b
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec3_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_math_sec3_ques18.jpg
+<label>(I) ->R (II) ->S (III) ->Q (IV) ->P</label>
+<label>(I) ->R (II) ->T (III) ->S (IV) ->P</label>
+<label>(I) ->Q (II) ->T (III) ->S (IV) ->P</label>
+<label>(I) ->Q (II) ->S (III) ->Q (IV) ->P</label>
+c
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec1_ques1.jpg
+integer
+integer
+interger
+integer
+2.3
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec1_ques2.jpg
+integer
+integer
+interger
+integer
+2.33
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec1_ques3.jpg
+integer
+integer
+interger
+integer
+8.00
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec1_ques4.jpg
+integer
+integer
+interger
+integer
+6
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec1_ques5.jpg
+integer
+integer
+interger
+integer
+0.52
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec1_ques6.jpg
+integer
+integer
+interger
+integer
+2.86
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec1_ques7.jpg
+integer
+integer
+interger
+integer
+4.00
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec1_ques8.jpg
+integer
+integer
+interger
+integer
+0.95
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec2_ques9.jpg
+<label>The electric field inside the dielectric material is reduced by a factor of 2K</label>
+<label>The Capacitance is decreased by a factor of 1/(k+1)</label>
+<label>The voltage between the capacitor plates is increased by a factor of (k+1)</label>
+<label>The work done in the process does not depend on the presence of dielectroc material</label>
+b
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec2_ques10.jpg
+<label>The magnitude of current flowing through R<sub>1</sub> is 7.2 A</label>
+<label>The magnitude of current flowing through R<sub>2</sub> is 1.2 A</label>
+<label>The magnitude of current flowing through R<sub>3</sub> is 4.8 A</label>
+<label>The magnitude of current flowing through R<sub>5</sub> is 2.4 A</label>
+[a,b,c,d]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec2_ques11.jpg
+<label>The Pressure of the gas at the upper end of chimney is 300Pa</label>
+<label>The velocity of the gas at the lower end of the chimney is 40ms<sup>-1</sup> and at the upper end is 20ms<sup>-1</sup></label>
+<label>The height of the chimney is 590m</label>
+<label>The density of the gas at the upper end is 0.05 kgm<sup>-3</sup></label>
+b
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec2_ques12.jpg
+<label>The ray of light will come out for θ=30° and for 0<l<L</label>
+<label>There is an angle for I =L/2 at which the ray of light will come out after two reflections</label>
+<label> The ray of light will nevet come out for θ= 60°, and l=L/3</label>
+<label>The ray of light will come out for θ= 60°, and 0 <l<<L/2 after six reflections</label>
+[a,b]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec2_ques13.jpg
+<label>When x = q, the magnitude of the electric field at O is zero.</label>
+<label>When x=-q, the magnitude of the electric field at O is q/6π€<sub>•</sub>a<sup>2</sup></label>
+<label>When x = 2q, the potential at O is 7q/4√3€<sub>•</sub>a</label>
+<label>When x = -34, the potential at O is -3q/4√3€<sub>•</sub>a</label>
+[a,b,c]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec2_ques14.jpg
+<label>E<sub>b</sub><sup>p</sup> - E <sub>b</sub><sup>n</sup> is proportional to Z(Z-1) where Z is the atomic number of the nucleus.</label>
+<label>E<sub>b</sub><sup>p</sup> - E <sub>b</sub><sup>n</sup> is proportional to A<sup>-1/3</sup>where A is the atomic mass of the nucleus</label>
+<label>E<sub>b</sub><sup>p</sup> - E <sub>b</sub><sup>n</sup> is positivev</label>
+<label>E<sub>b</sub><sup>p</sup> increases if the nucleus undergoes a beta decay emitting a positron</label>
+[a,b,d]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec3_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec3_ques15.jpg
+<label>(I) ->Q (II) ->P (III) ->S (IV) ->T</label>
+<label>(I) ->S (II) ->T (III) ->Q (IV) ->P</label>
+<label>(I) ->Q (II) ->P (III) ->S (IV) ->R</label>
+<label>(I) ->T (II) ->Q (III) ->P (IV) ->R</label>
+dropped
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec3_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec3_ques16.jpg
+<label>(I) ->R (II) ->T (III) ->P (IV) ->S</label>
+<label>(I) ->S (II) ->P (III) ->Q (IV) ->R</label>
+<label>(I) ->S (II) ->T (III) ->P (IV) ->R</label>
+<label>(I) ->T (II) ->P (III) ->R (IV) ->S</label>
+c
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec3_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec3_ques17.jpg
+<label>(I) ->T (II) ->R (III) ->S (IV) ->Q</label>
+<label>(I) ->S (II) ->P (III) ->T (IV) ->P</label>
+<label>(I) ->P (II) ->R (III) ->T (IV) ->Q</label>
+<label>(I) ->Q (II) ->R (III) ->S (IV) ->T</label>
+c
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec3_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_phy_sec3_ques18.jpg
+<label>(I) ->P (II) ->R (III) ->Q (IV) ->T</label>
+<label>(I) ->Q (II) ->P (III) ->T (IV) ->S</label>
+<label>(I) ->P (II) ->T (III) ->R (IV) ->Q</label>
+<label>(I) ->T (II) ->S (III) ->Q (IV) ->R</label>
+a
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec1_ques1.jpg
+integer
+integer
+integer
+integer
+90.39
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec1_ques2.jpg
+integer
+integer
+integer
+integer
+0.77
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec1_ques3.jpg
+integer
+integer
+integer
+integer
+10.02
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec1_ques4.jpg
+integer
+integer
+integer
+integer
+0.32
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec1_ques5.jpg
+integer
+integer
+integer
+integer
+2.39
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec1_ques6.jpg
+integer
+integer
+integer
+integer
+1.50
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec1_ques7.jpg
+integer
+integer
+integer
+integer
+1.31
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec1_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec1_ques8.jpg
+integer
+integer
+integer
+integer
+136.00
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec2_ques9.jpg
+<label>σ orbital has a total of two nodal planes</label>
+σ<sup>*</sup&orbital has one node in the xz-plane containing the molecular axis.
+<label>π orbital has one node in the plane which is perpendicular to the molecular axis and goes through the center of the molecule</label>
+<label>π<sup>*</sup>orbital has one node in the xy-plane containing the molecular axis</label>
+[a,d]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec2_ques10.jpg
+<label>Chemisorption results in a unimolecular layer</label>
+<label>The enthalpy change during physisorption is in the range of 100 to 149 kJmol<sup>-1</sup></label>
+<label>Chemisorption is an endothermic process</label>
+<label>Lowering the temperature favors physisorption processes</label>
+[a,d]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec2_ques11.jpg
+<label>The reaction of Al<sub>2</sub>O<sub>3</sub> with coke (C) at a temperature > 2500 °C.</label>
+<label>The neutralization of aluminate solution by passing CO<sub>2</sub> gas to precipitate hydrated alumina(Al<sub>2</sub>O<sub>3</sub>.3H<sub>2</sub>O</label>
+<label>the dissolution of Al<sub>2</sub>O<sub>3</sub> hot aqueous NaOH</label>
+<label>the electrolysis of Al<sub>2</sub>O<sub>3</sub>, mixed with Na<sub>3</sub>AIF<sub>6</sub> to give Al and CO<sub>2</sub></label>
+[b,c,d]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec2_ques12.jpg
+<label>paramagnetic</label>
+<label>bent in geometry</label>
+<label>an acidic oxide</label>
+<label>colourless</label>
+[a,d]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec2_ques13.jpg
+<label>P can be reduced to a primary alcohol using NaBH<sub>4</sub></label>
+<label>Treating P with conc. NH<sub>4</sub>OH solution followed by acidification gives Q</label>
+<label>Treating Q with a solution of NaNO<sub>2</sub> in aq. HCl liberates N<sub>2</sub></label>
+<label>P is more acidic than CH<sub>3</sub>CH<sub>2</sub>COOH.</label>
+[b,c,d]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec2_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec2_ques14.jpg
+<img style="width:80vw" src="/static/Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec2_ques14_opt1.jpg">
+<img style="width:80vw" src="/static/Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec2_ques14_opt2.jpg">
+<img style="width:80vw" src="/static/Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec2_ques14_opt3.jpg">
+<img style="width:80vw"  src="/static/Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec2_ques14_opt4.jpg">
+[a,b,c]
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec3_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec3_ques15.jpg
+<label>(I) ->P (II) ->Q (III) ->S (IV) ->T</label>
+<label>(I) ->R (II) ->S (III) ->S (IV) ->T</label>
+<label>(I) ->P (II) ->Q (III) ->Q (IV) ->R</label>
+<label>(I) ->R (II) ->S (III) ->Q (IV) ->R</label>
+a
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec3_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec3_ques16.jpg
+<label>(I) ->Q (II) ->P (III) ->S (IV) ->R</label>
+<label>(I) ->T (II) ->P (III) ->Q (IV) ->R</label>
+<label>(I) ->T (II) ->R (III) ->Q (IV) ->P</label>
+<label>(I) ->Q (II) ->R (III) ->S (IV) ->P</label>
+d
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec3_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec3_ques17.jpg
+<label>(I) ->R, T (II) ->P, S (III) ->Q, T (IV) ->P, Q</label>
+<label>(I) ->R, S (II) ->P, T(III) ->P, Q (IV) ->Q, T</label>
+<label>(I) ->P, R (II) ->R, S (III) ->R, T (IV) ->P, Q</label>
+<label>(I) ->Q, T (II) ->S, T (III) ->P, T(IV) ->Q, R</label>
+a
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_sec3_instr.jpg
+Jee Advance/Paper 2022-1/English/img/pap_2022_1_chem_sec3_ques18.jpg
+<label>(I) ->P, Q (II) ->S (III) ->Q, R (IV) ->P</label>
+<label>(I) ->P (II) ->R, S (III) ->R (IV) ->Q, S</label>
+<label>(I) ->Q, S (II) ->P, T (III) ->P (IV) ->S</label>
+<label>(I) ->P, S (II) ->T (III) ->Q, R (IV) ->P</label>
+d

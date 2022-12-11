@@ -1,0 +1,210 @@
+{% load static %}
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width = device-width,initial-scale=1.0">
+<title>Paper</title>
+<style>
+body{margin:0px;}
+header{background-color:#151B54;padding:1vh;}
+
+#jee{color:white;width:50%;float:left;}
+#Menu{color:white;width:50%;float:right;}
+#section{background-color:#1589FF;margin-top:-1vph;padding:1vh;}
+#section2{background-color:#ADD8E6;margin-top:-1vh;padding:1vh;}
+label{font-size:20px;}
+#next_but_div{background-color:lightgreen;color:black;padding:1vw;border:3px solid black;}
+.opt{width:10vw;}
+@media (max-width:500px){h1{font-size:18px;}}
+@media (max-width:500px){h2{font-size:16px;}}
+@media (max-width:500px){h3{font-size:14px;}}
+@media (max-width:500px){h4{font-size:12px;}}
+@media (max-width:500px){label{font-size:12px;}}
+@media (max-width:500px){#clear_form{float:left;}}
+@media (max-width:500px){#review_form{float:right;}
+</style>
+
+</head>
+<body box-sizing=border-box spacing=2vh>
+	<div id="main_div">
+	<header>
+	
+		<h4 id="Jee" align="left">{{exam}} {{paper}}</h4>
+		
+		
+		<div id="back_to_parent" style="clear:both;"></div>
+	</header>
+	
+	<div id="section" >
+	<h2 align="right"></h2>
+	</div>
+	
+	<div style="float:left;">
+	<h2>Question</h2>
+	</div>
+	
+	<div style="float:right;margin-top:2vh;">
+	<a href="#submit"><img style="width:10vw;height:5vw;" src="{% static '/img/down_arrow.jpg' %}"></a>
+	
+	</div>
+	
+	<div id="back_to_parent" style="clear:both;"></div>
+	<hr>
+	
+	<!--Instructions-->
+	<div>
+	<img style="width:100vw;" src="/static/{{object.instr}}" alt="Instruction">
+	
+	</div>
+	<!-- Question-->
+	<img style="margin-top:30px;width:100vw;" src="/static/{{object.ques}}" alt="Question 1">
+	
+	
+
+	{% if object.type == "integer" %}
+	<form style="margin:0px;" method="POST" action="paper.html">
+	
+	{% csrf_token %}
+	<label> Your Answer: </label>
+	
+	{% if object.select_val == "None" %}
+		<input type="text" name="ans2">
+	{% else %}
+		<input type="text" name="ans2" value={{object.select_val}}>
+	{% endif %}
+	
+	<div align="right" style="display:block;margin-top:2vh;">
+	<a href="#section"><img style="width:10vw;height:5vw;" src="{% static '/img/up_arrow.jpg' %}"></a>
+	
+	</div>
+		<div align="center">
+	<input style="background-color:black;color:white;padding:1vw;" type="submit" value="Save & Next">
+	</div>
+	
+	</form>
+	
+	{% elif object.type == "only_one" %}
+	
+	<form style="margin:0px;" method="POST" action="paper.html">
+	{% csrf_token %}
+	
+	<!-- checking if checked earlier or not-->
+	{% if object.select_val == "a" %}
+		<input type="radio" id="ans1" value="a" name="ans" checked>
+	{% else %}
+		<input type="radio" id="ans1" value="a" name="ans">
+	{% endif %}
+		
+	{{object.a | safe}}<br>
+	
+	
+	{% if object.select_val == "b" %}
+		<input type="radio" id="ans1" value="b" name="ans" checked>
+	{% else %}
+		<input type="radio" id="ans1" value="b" name="ans">
+	{% endif %}
+	
+	{{object.b | safe}}<br>
+	{% if object.select_val == "c" %}
+		<input type="radio" id="ans1" value="c" name="ans" checked>
+	{% else %}
+		<input type="radio" id="ans1" value="c" name="ans">
+	{% endif %}
+	{{object.c | safe}}<br>
+	
+	{% if object.select_val == "d" %}
+		<input type="radio" id="ans1" value="d" name="ans" checked>
+	{% else %}
+		<input type="radio" id="ans1" value="d" name="ans">
+	{% endif %}
+	
+	{{object.d | safe}}<br>
+		
+	<div align="right" style="display:block;margin-top:2vh;">
+	<a href="#section"><img style="width:10vw;height:5vw;" src="{% static '/img/up_arrow.jpg' %}"></a>
+	
+	</div>
+	
+	<div align="center">
+	<input style="background-color:black;color:white;padding:1vw;" type="submit" value="Save & Next">
+	</div>
+
+	</form>
+
+
+	{% else %}
+		<form style="margin:0px;" method="POST" action="paper.html">
+	{% csrf_token %}
+	
+	<!-- checking if checked earlier or not-->
+	{% if "a" in object.select_val %}
+		<input type="radio" value="a" name="ans1" checked>
+	{% else %}
+		<input type="radio" value="a" name="ans1">
+	{% endif %}
+	
+	{{object.a | safe}}<br>
+	
+	{% if "b" in object.select_val %}
+		<input type="radio" value="b" name="ans2" checked>
+	{% else %}
+		<input type="radio" value="b" name="ans2">
+	{% endif %}
+	
+	{{object.b | safe}}<br>
+		
+	{% if "c" in object.select_val %}
+	<input type="radio" value="c" name="ans3" checked>
+	{% else %}
+	<input type="radio" value="c" name="ans3">
+	{% endif %}
+	{{object.c | safe}}<br>
+		
+		
+	{% if "d" in i.select_val %}
+		<input type="radio" value="d" checked>
+	{% else %}
+		<input type="radio" value="d">
+	{% endif %}
+	{{object.d | safe}}<br>
+	
+	<div align="right" style="display:block;margin-top:2vh;">
+	<a href="#section"><img style="width:10vw;height:5vw;" src="{% static '/img/up_arrow.jpg' %}"></a>
+	
+	</div>
+	
+	<div align="center">
+	<input style="background-color:black;color:white;padding:1vw;display:inline;" type="submit" value="Save & Next">
+	</div>
+
+
+	</form>
+	{% endif %}
+
+	</div>
+	
+	<form id="clear_form" align="center" action="clear" style="margin-top:2vh;display:block;">
+		<input style="background-color:white;color:black;border:0.5px solid black;padding:1vw;" type="submit" value="Clear Responses">
+	</form>
+	
+
+
+	
+	<form id="review_form" align="center" action="review" style="margin-top:2vh;">
+		<input style="background-color:white;color:black;border:0.5px solid black;padding:1vw;" type="submit" value="Mark for Review">
+	</form>
+	
+	<div id="back_to_parent" style="clear:both;"></div>
+	
+	
+	<form id="submit" align="center" action="submit" style="margin-top:2vh;">
+		<input style="background-color:black;color:white;padding:1vw;" type="submit" value="Submit">
+	</form>
+
+	
+	
+	</div>
+	
+	
+</body>
+</html>

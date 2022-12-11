@@ -1,0 +1,399 @@
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec1_ques1.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec1_ques1_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec1_ques1_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec1_ques1_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec1_ques1_opt4.jpg">
+b
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec1_ques2.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec1_ques2_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec1_ques2_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec1_ques2_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec1_ques2_opt4.jpg">
+b
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec1_ques3.jpg
+<label>0.74</label>
+<label>0.63</label>
+<label>0.52</label>
+<label>0.48</label>
+b
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec1_ques4.jpg
+<label>3.87 और 2.84</label>
+<label>4.90 और 1.73</label>
+<label>3.87 और 1.73</label>
+<label>4.90 और 2.84</label>
+a
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec2_ques5.jpg
+integer
+integer
+interger
+integer
+1.62
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec2_ques6.jpg
+integer
+integer
+interger
+integer
+3.2
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec2_ques7.jpg
+integer
+integer
+interger
+integer
+166.28
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec2_ques8.jpg
+integer
+integer
+interger
+integer
+141.33
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec2_ques9.jpg
+integer
+integer
+interger
+integer
+100.10
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec2_ques10.jpg
+integer
+integer
+interger
+integer
+2.50
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques11.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques11_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques11_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques11_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques11_opt4.jpg">
+[c,d]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques12.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques12_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques12_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques12_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques12_opt4.jpg">
+[a,d]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques13.jpg
+<label> कोलॉईडी सॉि (colloidal sol) कप निद्युत अपघट्य (electrolyte) के द्वारा अिक्षेनपत करिे के प्रिम कप पेप्टि (peptization) कहते है | </label>
+<label>समाि सांद्रता पर, कोलिॉईडी विलयन(colloidal solution) का जमना वास्तविक विलयन तुलना में अनिक ताप पर हपता है | </label>
+<label>पृष्ठ सनियक (surfactants) क्रांतिक मिलेस सांद्रता (critical micelle concentration, CMC) के ऊपर मिसेल निर्माण करता है | CMC ताप पर निर्भर करता है | </label>
+<label>मिलेस बृहदाखिक कोलॉईड (macromolecular colloids) हैं | </label>
+[b,c]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques14.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques14_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques14_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques14_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques14_opt4.jpg">
+[a,b,d]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques15.jpg
+<label>PbS और PbO का एक नमश्रर् स्वतः अपचयि (self-reduction) कर उत्पाद Pb और SO2 देता है | </label>
+<label>कॉपर का कॉपर पाईराइट (copper pyrites) से निष्कर्णर् प्रिम में, कॉपर नसनिकेट के उत्पादि के निए नसनिका नमिाया जाता है |  </label>
+<label>कॉपर के सल्फाइड अयस्क का भर्जन (roasting) से आंनशक ऑक्सीकरर् के पश्चात् स्वतः अपचयन से फफोलेदार कॉपर (blister copper) का उत्पादि हपता है | </label>
+<label> साईिाइड प्रिम (cyanide process) में, सपिे का Na[Au(CN)2] से अिक्षेपर् के निए नजंक पाउडर का उपयपग नकया जाता है | </label>
+[a,c,d]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec3_ques16.jpg
+<label> Pb(NO<sub>3</sub>)<sub>2</sub> and Zn(NO<sub>3</sub>)<sub>2</sub></label>
+<label> Pb(NO<sub>3</sub>)<sub>2</sub>and Bi(NO<sub>3</sub>)<sub>3</sub></label>
+<label>AgNO<sub>3</sub> and Bi(NO<sub>3</sub>)<sub>3</sub> </label>
+<label>Pb(NO<sub>3</sub>)<sub>2</sub> and Hg(NO<sub>3</sub>)<sub>2</sub></label>
+[a,b]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec4_ques17.jpg
+integer
+integer
+interger
+integer
+13
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec4_ques18.jpg
+integer
+integer
+interger
+integer
+12
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_chem_sec4_ques19.jpg
+integer
+integer
+interger
+integer
+6
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec1_ques1.jpg
+<label>x<sup>2</sup>+y<sup>2</sup>-3x+y=0</label>
+<label>x<sup>2</sup>+y<sup>2</sup>+x+3y=0</label>
+<label>x<sup>2</sup>+y<sup>2</sup>+2y-1=0</label>
+<label>x<sup>2</sup>+y<sup>2</sup>+x+y=0</label>
+b
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec1_ques2.jpg
+<label>11/32</label>
+<label>35/96</label>
+<label>37/96</label>
+<label>13/32</label>
+a
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec1_ques3.jpg
+<label>1/5</label>
+<label>3/5</label>
+<label>1/2</label>
+<label>2/5</label>
+a
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec1_ques4.jpg
+<label>P  सत्य है और Q  असत्य है </label>
+<label>Q  सत्य है और P  असत्य ह</label>
+<label>P  और Q दोनो सत्य हैं </label>
+<label>P  और Q दोनो असत्य हैं </label>
+c
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec2_ques5.jpg
+integer
+integer
+interger
+integer
+76.25
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec2_ques6.jpg
+integer
+integer
+interger
+integer
+24.50
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec2_ques7.jpg
+integer
+integer
+interger
+integer
+1.00
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec2_ques8.jpg
+integer
+integer
+interger
+integer
+1.50
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec2_ques9.jpg
+integer
+integer
+interger
+integer
+9.00
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec2_ques10.jpg
+integer
+integer
+interger
+integer
+77.14
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques11.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques11_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques11_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques11_opt3.jpg">
+<img style="width:80vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques11_opt4.jpg">
+[a,b,d]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques12.jpg
+<label>f अंतराल (−2,−1) में ह्रासमान (decreasing) है </label>
+<label>f अंतराि (1,2) में वर्धमान (increasing) है  </label>
+<label>f आच्छािक (onto) है </label>
+<label>f का पररसर (range) [−3/2 ,2] ह</label>
+[a,b]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques13.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques13_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques13_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques13_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques13_opt4.jpg">
+[a,b,c]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques14.jpg
+<label> |FE|= | I-FE||FGE|</label>
+<label>(I-FE)(I+FEG)=I</label>
+<label>EFG=GEF</label>
+<label>(I-FE)(I-FGE)=I</label>
+[a,b,c]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques15.jpg
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques15_opt1.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques15_opt2.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques15_opt3.jpg">
+<img style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques15_opt4.jpg">
+[a,b]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec3_ques16.jpg
+<label> α=-1</label>
+<label>αβ=4</label>
+<label>αβ=-4</label>
+<label>β=4</label>
+[b,d]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec4_ques17.jpg
+integer
+integer
+interger
+integer
+4
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec4_ques18.jpg
+integer
+integer
+interger
+integer
+2
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_math_sec4_ques19.jpg
+integer
+integer
+interger
+integer
+7
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec1_ques1.jpg
+<label>3.07 cm</label>
+<label>3.11 cm</label>
+<label>3.15 cm</label>
+<label>3.17 cm</label>
+c
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec1_ques2.jpg
+<label>चरण 1 तथा 2 में </label>
+<label>चरण 1 तथा 3 में </label>
+<label>चरण 1 तथा 4 में  </label>
+<label>चरण 2 तथा 4 में </label>
+c
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec1_ques3.jpg
+<label>0.4</label>
+<label>0.8</label>
+<label>1.3</label>
+<label>1.6</label>
+b
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec1_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec1_ques4.jpg
+<label>50</label>
+<label>75</label>
+<label>350</label>
+<label>525</label>
+d
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec2_ques5.jpg
+integer
+integer
+interger
+integer
+0.50
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec2_ques6.jpg
+integer
+integer
+interger
+integer
+7.50
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec2_ques7.jpg
+integer
+integer
+interger
+integer
+1.33
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec2_ques8.jpg
+integer
+integer
+interger
+integer
+0.67
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec2_ques9.jpg
+integer
+integer
+interger
+integer
+1.73
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec2_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec2_ques10.jpg
+integer
+integer
+interger
+integer
+3.00
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec3_ques11.jpg
+<label>एक हि बल f के लिये, a का मान बेिन के ठोस या खोखले पने पर निर्भर नहीं करता हैं </label>
+<label> यदि बेलन ठोस है,तो त्वरण a का अधिकतम मान 2µg हैं </label>
+<label> भूमि के साथ घर्षण बल का परिमाण हमेशा µmg होगा </label>
+<label> एक पतली दीवार वाले खोखले के लिए a=F/2m होगा
+[a,b,d]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec3_ques12.jpg
+<label>यदि  n2=n1 है तो प्रकाश की किरण वायु में प्रवेश करेगी  </label>
+<label>यदि  n2 < n1 है तो प्रकाश की किरण अंततः अपवर्तनांक n1 वाले माध्यम में परावर्तित होगी </label>
+<label>यदि  n2>n1 है तो प्रकाश की किरण अंततः अपवर्तनांक n1 वाले माध्यम में परावर्तित होगी  </label>
+<label>यदि  n2=1 है तो प्रकाश की किरण अंततः अपवर्तनांक n1 वाले माध्यम में परावर्तित होगी </label>
+[b,c,d]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec3_ques13.jpg
+<label>समय t=2 s पर कण बिन्दु पर (x=l,y=-h) पर पहुँचाता हैं</label>
+<img class="opt" src="static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec3_ques13_opt2.jpg"><label>, जब कण बिन्दु (x=l,y=-h) से गुजरता हैं</label>
+<img class="opt" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec3_ques13_opt3.jpg"><label> जब कण बिन्दु (x=l,y=-h) से गुजरता हैं</label>
+<img class="opt" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec3_ques13_opt4.jpg"><label> जब कण बिन्दु (x=0,y=-h) से गुजरता हैं</label>
+[a,b,c]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec3_ques14.jpg
+<label>बामर (Balmer) श्रेणी की दीर्घमता तथा लघुतम तरंगदैर्ध्यो का अनुपात 9/5 है </label>
+<label>बामर (Balmer) तथा पाशन (Paschen) श्रेणीयो की तरंगिैर्घ्यों की परासों (ranges) के मध्य अलतव्यापन (overlap) होता हैं</label>
+<label>लाईमन(Lyman) श्रेणीयो तरंगिैर्घ्यों के मान (1+1/m^2)λ• जहाँ λ• इस श्रेणी की लघुतम तरंगिैर्घ्यों है तथा m एक पूर्णक हैं</label>
+<label>बामर (Balmer) तथा लाईमन(Lyman) श्रेणीयो की तरंगिैर्घ्यों की परासों के मध्य अलतव्यापन (overlap) नहीं होता हैं</label>
+[a,d]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec3_ques15.jpg
+<label>प्रलतरपि R में धारा का अलिकतम मान 1.2 ×10^−6 Ampere होगा </label>
+<label>प्रलतरपि R में धारा का अलिकतम मान 3.8 ×10^−6 Ampere होगा </label>
+<label>संधारित्र C• पर आवेश का अधिकतम 8.4 x 10^-12 coulomb होगा</label>
+<label>संधारित्र C• पर आवेश का अधिकतम 2.4 x 10^-12 coulomb होगा</label>
+[a,c]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec3_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec3_ques16.jpg
+<img class="opt" style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec3_ques16_opt1.jpg">
+<img class="opt" style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec3_ques16_opt2.jpg">
+<img class="opt" style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec3_ques16_opt3.jpg">
+<img class="opt" style="width:50vw;" src="/static/Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec3_ques16_opt4.jpg">
+[a,c]
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec4_ques17.jpg
+integer
+integer
+interger
+integer
+4
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec4_ques18.jpg
+integer
+integer
+interger
+integer
+49
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_sec4_instr.jpg
+Jee Advance/Paper 2021-1/Hindi/img/pap_2021_1_phy_sec4_ques19.jpg
+integer
+integer
+interger
+integer
+9

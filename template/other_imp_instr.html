@@ -1,0 +1,91 @@
+<html>
+<head>
+<title> Other Important Instruction</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width = device-width,initial-scale=1.0">
+
+<style>
+body(margin-left:2vw;margin-right:2vw)
+@media (max-width:500px){h1{font-size:20px;}}
+@media (max-width:500px){h2{font-size:18px;}}
+@media (max-width:500px){h3{font-size:16px;}}
+@media (max-width:500px){h4{font-size:14px;}}
+@media (max-width:500px){label{font-size:12px;}}
+@media (max-width:500px){body{margin-left:2vw,margin-right:0px;}}
+@media not all and (max-width:500px){footer{position:fixed;bottom:0px;margin-bottom:20px}}
+@media (orientation:landscape) and (max-height:500px){footer{position:static;}}
+</style>
+
+<body>
+
+	<div id="main_div">
+	
+	<div>
+	<header style="padding:1px;">
+	<h1 align="center" style="color:grey;">Other Important Instructions</h1>
+	</header>
+	<hr>
+	
+	<section>
+	<div align="right" style="display:inline;">
+	<h4> View in:English</h4>
+	</div>
+	
+	<h4 align="center">Confidential Instruction will be displayed <br> here</h4>
+	
+	</section>
+	</div>
+	
+	<footer>
+
+	<hr>
+	
+	<div>
+		<h3 style="display:inline;">Choose your default language : </h3>
+	
+	
+	
+			
+	
+		<form action="paper.html_1" id="check_form" method="POST">
+		{% csrf_token %}
+		<select name="opt">
+		{% for i in avai_lang %}
+			<option>{{i}}</option>
+		{% endfor %}
+			</select>
+		
+	
+		<h4 style="color:red;"> Please note that all the question will be displayed in your default language,it can also be changed later</h4>
+			<input type="checkbox" name="check">
+			<label style="">I have read and understood the instruction.All computer hardwates alloted to me are in proper working condition.I declare that I am not in possession of /not wearing/not carrying any prohibited gagets like mobile phone,bluetooth devices,etc/any prohibited material with me in the examination hall.I agree in case of not adhering to the instruction, I shall be liable to be debarred from this test and/or to disciplinary action,which may include ban from future tests/examinations</label>
+			
+		{% if check_hidden == "False" %}
+		<br><br>	<label style="color:red;"> You Have Not Check The Checkbox</label>
+		{% endif %}
+		
+		{% if opt_hidden == "False" %}
+		<br><br>	<label style="color:red;">You Have Not Select Any Default Language</label>
+		{% endif %}
+		</form>
+		<br>
+		
+	</div>
+	
+
+	
+	<div style="float:right;border:1px solid black;padding:1vw;">
+	<input type="submit" style="background-color:black;color:white;" form="check_form" value="I am ready to begin">
+	</div>
+	
+	<div style="float:left;border:1px solid black;padding:1vw;">
+	<a style="color:black" href="instr.html">Previous</a>
+	</div>
+	<div style="clear:both;"></div>
+	
+	</footer>
+	
+	</div>
+</body>
+
+</html>
